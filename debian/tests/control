@@ -1,3 +1,0 @@
-Tests: gramps-import-export
-Depends: gramps, gzip
-Restrictions: allow-stderr
